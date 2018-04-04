@@ -1,0 +1,54 @@
+body {
+	font-family: "Sabon", serif;
+	font-size: 20px;
+	background-color: #F8E71C;
+	/*background-image: url(../images/picture1.png);*/
+	font-style: italic;
+	padding: 0;
+	margin:0;
+	-webkit-font-smoothing: antialiased;
+}
+header {
+	background-color: black;
+	color: white;
+	padding: 2em;
+	margin: 0;
+}
+.main {
+	padding: 2em;
+}
+h1, h2 {
+	margin-bottom: 0.5em;
+	font-weight: 100;
+}
+a, a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: line-through;
+}
+nav {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+nav ul {
+	list-style: none;
+	padding: 0;
+}
+nav ul li {
+	display: inline;
+	margin-right: 1em;
+}
+
+.firsty {
+	font-size: 10em;
+}
+
+.column {
+	width: 45%;
+	margin-top: 0;
+	padding: 0 1em;
+	display: inline-block;
+}
+.c1 {
+}
