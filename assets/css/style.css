@@ -1,4 +1,4 @@
-@include("../fonts/sabon/stylesheet.css");
+@import url("../fonts/sabon/stylesheet.css");
 
 body {
 	font-family: "sabonroman", serif;
